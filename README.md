@@ -5,3 +5,4 @@ resha
 ongko
 leo
 stelli
+sinta
